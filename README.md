@@ -5,7 +5,7 @@
  <a href="#tecnologia">Tecnologias</a> • 
   <a href="#desenvolvimento">Desenvolvimento</a> •
  <a href="#colab">Colaboladores</a> •
- <a href="#contribute">Contribute</a>
+ <a href="#</a>
 </p>
 
 <p align="center">
@@ -96,7 +96,9 @@ Here you can list the main routes of your API, and what are their expected reque
 }
 ```
 
-<h2 id="colab">🤝 Collaborators</h2>
+<h2 id="colab"> Colaboradores</h2>
+
+* [Danielle Rossetti Rodrigues](https://github.com/danieller)
 
 Special thank you for all people that contributed for this project.
 
