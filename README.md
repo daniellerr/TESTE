@@ -27,6 +27,19 @@ O objetivo é fornecer uma ferramenta simples e prática que conecta médicos e 
 
 <h3>Desenvolvimento</h3>
 
+O uso da ferramenta visa otimizar o processo de agendamento e acesso a informações de saúde, facilitando a comunicação e o acompanhamento tanto para pacientes quanto para profissionais da saúde, com foco em conveniência e praticidade, oferecendo as seguintes funcionalidades:
+
+Para Pacientes:
+
+- Marcação Simplificada de Consultas: Agendamento online intuitivo, com visualização de horários disponíveis e escolha de profissionais/especialidades.
+- Acesso ao Histórico de Exames: Visualização rápida e segura de resultados de exames realizados.
+- Notificações Inteligentes: Lembretes de consultas agendadas para evitar esquecimentos.
+
+Para Médicos:
+
+- Gestão de Agenda: Visualização e organização eficiente da agenda de consultas.
+- Acesso ao Histórico de Exames de Pacientes: Consulta rápida e segura do histórico de exames de seus pacientes para acompanhamento.
+
 Here you list all prerequisites necessary for running your project. For example:
 
 - [NodeJS](https://github.com/)
